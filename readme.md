@@ -35,7 +35,8 @@
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://https://github.com/Dopamusicbot/tc-dopa-music&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,SUDO_USER)
 
 ### ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ
-Use to get pyrogram string session
+[Repl Link](https://replit.com/@Botsupport/PatriciaXmusic) to get pyrogram string session
+
 
 # CREDITS
 
