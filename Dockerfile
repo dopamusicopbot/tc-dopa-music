@@ -1,6 +1,6 @@
 FROM python:latest
 RUN apt-get update && apt-get upgrade -y
-RUN ap-get install git curl python3-pip ffmpeg -y
+RUN apt-get install git curl python3-pip ffmpeg -y
 RUN curl -sL https://deb.nodesource.com/setup_16.x | bash -
 RUN apt-get install -y nodejs
 RUN npm i -g npm
