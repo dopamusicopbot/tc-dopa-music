@@ -194,7 +194,7 @@ async def play(_, message: Message):
                             url=f"{url}"),
                         InlineKeyboardButton(
                             text="ʙᴀɴᴀɴᴀ ʜᴏ ᴛᴏ ᴊᴏɪɴ ᴋʀʟᴏ ",
-                            url=f"https://t.me/UNIVERSAL_OP_CHAT)
+                            url=f"https://t.me/UNIVERSAL_OP_CHAT")
 
                     ]
                 ]
